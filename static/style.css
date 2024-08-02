@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#chat-container {
+    margin-top: 50px;
+}
+
+#chat-window {
+    height: 400px;
+    overflow-y: scroll;
+}
+
+#output {
+    padding: 10px;
+    height: 100%;
+}
+
+#output p {
+    margin: 0;
+    padding: 5px;
+}
+
+#output img {
+    max-width: 100%;
+    margin: 10px 0;
+}
